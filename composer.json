@@ -1,0 +1,13 @@
+{
+  "name": "mautic/loyalclient",
+  "description": "Loyal Client Email Theme by Ricardo Freire",
+  "type": "mautic-theme",
+  "keywords": ["mautic","theme"],
+  "extra": {
+    "install-directory-name": "loyalclient"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "mautic/core-lib": "^5.0"
+  }
+}
