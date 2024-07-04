@@ -2,8 +2,7 @@
 
 ![Thumbnail of Loyal Client Email Theme for Mautic](https://github.com/ricfreire/mautic-theme-loyalclient/assets/149018829/15b60485-3b31-4e7b-abf9-1f665c5f0170)
 
-
-This modern email theme, Save10, is designed for online store promotions, featuring a 10% discount coupon. With sleek aesthetics, it showcases your top three best-selling furniture pieces alongside the enticing discount offer. Its contemporary layout and vibrant visuals captivate attention, driving engagement and boosting your sales.
+Elevate your customer experience with this exclusive gift template, designed specifically for your most loyal clients. Featuring a sleek, modern, and futuristic style, this email template is crafted to instantly capture attention and drive engagement. Its eye-catching design and personalized touch will make your clients feel valued, enhancing their connection to your brand and increasing the likelihood of successful transactions.
 
 ### 📜 License
 
